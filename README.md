@@ -101,8 +101,8 @@ $sobreMim = new SobreMim(
 );
 
 $trabalhoAtual = new TrabalhoAtual(
-    'Objective',
-    'Back-End Developer'
+    'Nordestão',
+    'Analista de programação'
 );
 
 $aprendizado = new Aprendizado([
