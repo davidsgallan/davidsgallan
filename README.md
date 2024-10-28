@@ -1,121 +1,19 @@
+<h1 align="center">👋 Olá, eu sou o David!</h1>
+
+<h3 align="center">Desenvolvedor Backend Especializado em Soluções Escaláveis e Microsserviços</h3>
+
 ---
 
-## 👋 Olá, eu sou o David!!
-Desenvolvedor Back-End apaixonado por criar soluções robustas e eficientes. Com experiência em PHP, Laravel, Docker, e mais.
+### Sobre Mim
 
-<p align="left">
-  <a href="https://github.com/silasmasay">
-    <img src="https://komarev.com/ghpvc/?username=silasmasay" alt="page views" />
-  </a>
-  <a href="https://github.com/silasmasay?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/silasmasay?color=green&logo=github">
-  </a>
-</p>
+Desenvolvedor Full Stack com mais de 10 anos de experiência, focado no backend e especializado em desenvolvimento de soluções complexas e otimizadas. Possuo amplo conhecimento em PHP, Python, JavaScript, frameworks modernos e integrações com bancos de dados relacionais. Apaixonado por tecnologia e sempre em busca de novas maneiras de resolver problemas e otimizar sistemas.
 
-<table>
-  <tr>
-    <td>
+- 🔭 Atualmente trabalho no Supermercado Nordestão, focado em desenvolvimento de sistemas complexos em PHP (Yii2, Laravel) e monitoramento com Grafana e Prometheus.
+- 🌱 Estudando continuamente sobre DevOps, automação de deploys e novas tecnologias em microsserviços e cloud computing.
+- 💬 Pergunte-me sobre Docker, APIs RESTful, desenvolvimento backend e integração de sistemas de monitoramento.
 
-```PHP
-<?php
-
-class SobreMim {
-    private $nome;
-    private $idade;
-    private $cargo;
-    private $pais;
-    private $hobbies;
-    private $softSkills;
-
-    public function __construct($nome, $idade, $cargo, $pais, $hobbies, $softSkills) {
-        $this->nome = $nome;
-        $this->idade = $idade;
-        $this->cargo = $cargo;
-        $this->pais = $pais;
-        $this->hobbies = $hobbies;
-        $this->softSkills = $softSkills;
-    }
-
-    public function getNome() {
-        return $this->nome;
-    }
-
-    public function getIdade() {
-        return $this->idade;
-    }
-
-    public function getCargo() {
-        return $this->cargo;
-    }
-
-    public function getPais() {
-        return $this->pais;
-    }
-
-    public function getHobbies() {
-        return $this->hobbies;
-    }
-
-    public function getSoftSkills() {
-        return $this->softSkills;
-    }
-}
-
-class TrabalhoAtual {
-    private $empresa;
-    private $cargo;
-
-    public function __construct($empresa, $cargo) {
-        $this->empresa = $empresa;
-        $this->cargo = $cargo;
-    }
-
-    public function getEmpresa() {
-        return $this->empresa;
-    }
-
-    public function getCargo() {
-        return $this->cargo;
-    }
-}
-
-class Aprendizado {
-    private $conteudo;
-
-    public function __construct($conteudo) {
-        $this->conteudo = $conteudo;
-    }
-
-    public function getConteudo() {
-        return $this->conteudo;
-    }
-}
-
-$sobreMim = new SobreMim(
-    'David Gallan',
-    25,
-    'Desenvolvedor Web - Back-End',
-    'Brasil',
-    ['Academia'],
-    ['Comunicação', 'Organização', 'Trabalho em Equipe']
-);
-
-$trabalhoAtual = new TrabalhoAtual(
-    'Nordestão',
-    'Analista de programação'
-);
-
-$aprendizado = new Aprendizado([
-    'Laravel',
-    'Yii2',
-    'Docker Swarm',
-    'Amazon Web Services'
-]);
-```
-
-
-
-## Linguagens e Ferramentas
+---
+### 🛠️ Tech Stack
 
 <p>Aqui estão algumas das tecnologias com as quais trabalho:</p>
 
@@ -173,6 +71,10 @@ $aprendizado = new Aprendizado([
          <br>Yii2
       </td>
       <td align="center">
+        <img align="center" title="Flask" alt="Flask" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+         <br>Flask
+      </td>
+      <td align="center">
         <img align="center" title="Apache Airflow" alt="Apache Airflow" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
          <br>Apache Airflow
       </td>
@@ -207,8 +109,19 @@ $aprendizado = new Aprendizado([
         <br>Jira
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img align="center" title="Groq" alt="Groq" height="60" width="60" src="https://avatars.githubusercontent.com/u/7464134?s=200&v=4">
+        <br>Groq
+      </td>
+      <td align="center">
+            <img align="center" title="Groq" alt="Groq" height="60" width="60" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+        <br>LangChain
+      </td>
+    </tr>
   </tbody>
 </table>
+
 
 <h3>Arquitetura e Ferramentas de Software</h3>
 
@@ -238,3 +151,27 @@ $aprendizado = new Aprendizado([
     </tr>
   </tbody>
 </table>
+
+---
+
+### 📫 Como Me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/david-gallan-8491711ab)
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsgallan&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+### 🏆 Projetos Destacados
+
+- **Contribuições para Yii3**: Participação ativa na comunidade Yii, contribuindo com melhorias e otimizações para o Yii3, incluindo correções de bugs e sugestões de novas funcionalidades.
+- **Desenvolvimento de Bibliotecas PHP**: Criação de bibliotecas customizadas em PHP.
+
