@@ -164,7 +164,7 @@ Desenvolvedor Full Stack com mais de 10 anos de experiência, focado no backend 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=davidsgallan&show_icons=true&theme=radical" alt="GitHub Stats">
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsgallan&theme=radical" alt="GitHub Streak">
 </div>
 
