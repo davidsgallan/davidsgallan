@@ -8,12 +8,12 @@
 
 Desenvolvedor Full Stack com mais de 10 anos de experiência, focado no backend e especializado em desenvolvimento de soluções complexas e otimizadas. Possuo amplo conhecimento em PHP, Python, JavaScript, frameworks modernos e integrações com bancos de dados relacionais. Apaixonado por tecnologia e sempre em busca de novas maneiras de resolver problemas e otimizar sistemas.
 
-- 🔭 Atualmente trabalho no Supermercado Nordestão, focado em desenvolvimento de sistemas complexos em PHP (Yii2, Laravel) e monitoramento com Grafana e Prometheus.
-- 🌱 Estudando continuamente sobre DevOps, automação de deploys e novas tecnologias em microsserviços e cloud computing.
-- 💬 Pergunte-me sobre Docker, APIs RESTful, desenvolvimento backend e integração de sistemas de monitoramento.
+- Atualmente trabalho no Supermercado Nordestão, focado em desenvolvimento de sistemas complexos em PHP (Yii2, Laravel) e monitoramento com Grafana e Prometheus.
+- Estudando continuamente sobre DevOps, automação de deploys e novas tecnologias em microsserviços e cloud computing.
+- Pergunte-me sobre Docker, APIs RESTful, desenvolvimento backend e integração de sistemas de monitoramento.
 
 ---
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>Aqui estão algumas das tecnologias com as quais trabalho:</p>
 
@@ -154,14 +154,14 @@ Desenvolvedor Full Stack com mais de 10 anos de experiência, focado no backend 
 
 ---
 
-### 📫 Como Me Encontrar
+### Como Me Encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/david-gallan-8491711ab)
 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=davidsgallan&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -170,7 +170,7 @@ Desenvolvedor Full Stack com mais de 10 anos de experiência, focado no backend 
 
 ---
 
-### 🏆 Projetos Destacados
+### Projetos Destacados
 
 - **Contribuições para Yii3**: Participação ativa na comunidade Yii, contribuindo com melhorias e otimizações para o Yii3, incluindo correções de bugs e sugestões de novas funcionalidades.
 - **Desenvolvimento de Bibliotecas PHP**: Criação de bibliotecas customizadas em PHP.
